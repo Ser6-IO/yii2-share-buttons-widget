@@ -1,0 +1,6 @@
+# windows thumbnail cache
+Thumbs.db
+# Mac DS_Store Files
+.DS_Store
+# VSCode workspace
+yii2-share-buttons-widget.code-workspace
